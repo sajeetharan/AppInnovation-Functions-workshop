@@ -39,7 +39,7 @@ Clone the repository to your development machine:
 
 ```
 // Git address will be made available soon!
-git clone https://github.com/alexthissen/functionsworkshop2018.git
+git clone https://github.com/sajeetharan/AppInnovation-Functions-workshop.git
 ```
 - Set an environment variable to the root of the cloned repository from PowerShell:
 ```
